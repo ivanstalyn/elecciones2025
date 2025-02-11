@@ -1,0 +1,150 @@
+{
+    "data": [
+        {
+            "COD_DIGNIDAD": 11,
+            "COD_CANDIDATO": 11000008,
+            "NOM_PARTIDO": "MOVIMIENTO CONSTRUYE (25|CONSTRUYE)",
+            "NOM_CANDIDATO": "HENRY CUCALON",
+            "VOTOS": 34,
+            "ORD_CANDIDATO": 0,
+            "PORCENTAJE": 0.44
+        },
+        {
+            "COD_DIGNIDAD": 11,
+            "COD_CANDIDATO": 11000012,
+            "NOM_PARTIDO": "PARTIDO SOCIEDAD UNIDA M\u00C1S ACCI\u00D3N, SUMA (23|SUMA)",
+            "NOM_CANDIDATO": "ENRIQUE GOMEZ",
+            "VOTOS": 19,
+            "ORD_CANDIDATO": 0,
+            "PORCENTAJE": 0.24
+        },
+        {
+            "COD_DIGNIDAD": 11,
+            "COD_CANDIDATO": 11000013,
+            "NOM_PARTIDO": "MOVIMIENTO CREO, CREANDO OPORTUNIDADES (21|CREO)",
+            "NOM_CANDIDATO": "FRANCESCO TABACCHI",
+            "VOTOS": 21,
+            "ORD_CANDIDATO": 0,
+            "PORCENTAJE": 0.27
+        },
+        {
+            "COD_DIGNIDAD": 11,
+            "COD_CANDIDATO": 11000018,
+            "NOM_PARTIDO": "MOVIMIENTO DEMOCRACIA S\u00CD (20|DSI)",
+            "NOM_CANDIDATO": "IVAN SAQUICELA",
+            "VOTOS": 6,
+            "ORD_CANDIDATO": 0,
+            "PORCENTAJE": 0.08
+        },
+        {
+            "COD_DIGNIDAD": 11,
+            "COD_CANDIDATO": 11000007,
+            "NOM_PARTIDO": "MOVIMIENTO DE UNIDAD PLURINACIONAL PACHAKUTIK (18|MUPP)",
+            "NOM_CANDIDATO": "LEONIDAS IZA",
+            "VOTOS": 494,
+            "ORD_CANDIDATO": 0,
+            "PORCENTAJE": 6.33
+        },
+        {
+            "COD_DIGNIDAD": 11,
+            "COD_CANDIDATO": 11000011,
+            "NOM_PARTIDO": "PARTIDO SOCIALISTA ECUATORIANO (17|PSE)",
+            "NOM_CANDIDATO": "PEDRO GRANJA",
+            "VOTOS": 30,
+            "ORD_CANDIDATO": 0,
+            "PORCENTAJE": 0.38
+        },
+        {
+            "COD_DIGNIDAD": 11,
+            "COD_CANDIDATO": 11000019,
+            "NOM_PARTIDO": "MOVIMIENTO AMIGO, ACCI\u00D3N MOVILIZADORA INDEPENDIENTE GENERANDO OPORTUNIDADES (16|AMIGO)",
+            "NOM_CANDIDATO": "JUAN IVAN CUEVA",
+            "VOTOS": 21,
+            "ORD_CANDIDATO": 0,
+            "PORCENTAJE": 0.27
+        },
+        {
+            "COD_DIGNIDAD": 11,
+            "COD_CANDIDATO": 11000016,
+            "NOM_PARTIDO": "PARTIDO IZQUIERDA DEMOCR\u00C1TICA (12|ID)",
+            "NOM_CANDIDATO": "CARLOS RABASCALL",
+            "VOTOS": 33,
+            "ORD_CANDIDATO": 0,
+            "PORCENTAJE": 0.42
+        },
+        {
+            "COD_DIGNIDAD": 11,
+            "COD_CANDIDATO": 11000015,
+            "NOM_PARTIDO": "PARTIDO AVANZA (8|AVANZA)",
+            "NOM_CANDIDATO": "LUIS FELIPE TILLERIA",
+            "VOTOS": 26,
+            "ORD_CANDIDATO": 0,
+            "PORCENTAJE": 0.33
+        },
+        {
+            "COD_DIGNIDAD": 11,
+            "COD_CANDIDATO": 11000014,
+            "NOM_PARTIDO": "MOVIMIENTO ACCION DEMOCRATICA NACIONAL, ADN (7|ADN)",
+            "NOM_CANDIDATO": "DANIEL NOBOA AZIN",
+            "VOTOS": 4751,
+            "ORD_CANDIDATO": 0,
+            "PORCENTAJE": 60.84
+        },
+        {
+            "COD_DIGNIDAD": 11,
+            "COD_CANDIDATO": 11000009,
+            "NOM_PARTIDO": "PARTIDO SOCIAL CRISTIANO (6|PSC)",
+            "NOM_CANDIDATO": "HENRY KRONFLE KOZHAYA",
+            "VOTOS": 45,
+            "ORD_CANDIDATO": 0,
+            "PORCENTAJE": 0.58
+        },
+        {
+            "COD_DIGNIDAD": 11,
+            "COD_CANDIDATO": 11000022,
+            "NOM_PARTIDO": "REVOLUCI\u00D3N CIUDADANA - RETO (5-33|RC/RETO)",
+            "NOM_CANDIDATO": "LUISA GONZALEZ",
+            "VOTOS": 2032,
+            "ORD_CANDIDATO": 0,
+            "PORCENTAJE": 26.02
+        },
+        {
+            "COD_DIGNIDAD": 11,
+            "COD_CANDIDATO": 11000020,
+            "NOM_PARTIDO": "MOVIMIENTO PUEBLO IGUALDAD DEMOCRACIA \u0022PID\u0022 (4|PID)",
+            "NOM_CANDIDATO": "VICTOR ARAUS",
+            "VOTOS": 15,
+            "ORD_CANDIDATO": 0,
+            "PORCENTAJE": 0.19
+        },
+        {
+            "COD_DIGNIDAD": 11,
+            "COD_CANDIDATO": 11000010,
+            "NOM_PARTIDO": "PARTIDO SOCIEDAD PATRI\u00D3TICA  21 DE ENERO (3|PSP)",
+            "NOM_CANDIDATO": "ANDREA GONZALEZ",
+            "VOTOS": 203,
+            "ORD_CANDIDATO": 0,
+            "PORCENTAJE": 2.6
+        },
+        {
+            "COD_DIGNIDAD": 11,
+            "COD_CANDIDATO": 11000021,
+            "NOM_PARTIDO": "PARTIDO UNIDAD POPULAR (2|UP)",
+            "NOM_CANDIDATO": "JORGE ESCALA",
+            "VOTOS": 24,
+            "ORD_CANDIDATO": 0,
+            "PORCENTAJE": 0.31
+        },
+        {
+            "COD_DIGNIDAD": 11,
+            "COD_CANDIDATO": 11000017,
+            "NOM_PARTIDO": "MOVIMIENTO CENTRO DEMOCR\u00C1TICO (1|CD)",
+            "NOM_CANDIDATO": "JIMMY JAIRALA VALLAZZA",
+            "VOTOS": 55,
+            "ORD_CANDIDATO": 0,
+            "PORCENTAJE": 0.7
+        }
+    ],
+    "totalCount": -1,
+    "groupCount": -1
+}
